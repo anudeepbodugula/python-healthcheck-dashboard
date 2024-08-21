@@ -8,7 +8,6 @@ app = Flask(__name__)
 urls = [
     "https://www.google.com",
     "https://www.github.com",
-    "https://anudeep-bodugula.com",
     "https://www.nonexistentwebsite.com"  # Example of a non-existing website
 ]
 
